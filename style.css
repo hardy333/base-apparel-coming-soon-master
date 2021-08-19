@@ -97,7 +97,7 @@ body{
     background: url("./images/bg-pattern-desktop.svg");
     width: 60%;
     flex-grow: 1;
-
+    overflow: hidden;
 
     /* background-position: center; */
     background-repeat: no-repeat;
